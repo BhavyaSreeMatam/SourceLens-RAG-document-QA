@@ -1,0 +1,25 @@
+# Python virtual environments
+Backend/venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets
+Backend/.env
+.env
+
+# Uploaded/generated backend data
+Backend/uploads/
+Backend/indexes/
+
+# Node dependencies/build
+Frontend/node_modules/
+Frontend/dist/
+
+# OS/editor files
+.DS_Store
+.vscode/
